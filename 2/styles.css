@@ -1,0 +1,21 @@
+
+#menu {
+  display: inline;
+  padding: 30px;
+  padding-right: 3px;
+  align-content: baseline;
+  display: inline-block;
+  text-decoration: none;
+}
+.contenedor-imagen{
+  color: blanchedalmond;
+  width: max-content;
+}
+.resumen{
+    width: 100px;
+    height: 100px;
+
+}
+.encabezado{
+    width: 100%;
+}
